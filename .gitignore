@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+e_commerce_product_catalog/docs/current
+node_modules/
